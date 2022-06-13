@@ -4,7 +4,7 @@ Hi, thanks for stopping by. I've created this repo to show a dashboard that I cr
 
 <a href="https://ibb.co/NCNYSyn"><img src="https://i.ibb.co/PjWCQ6z/credit-card-defaults.jpg" alt="credit-card-defaults" border="0"></a>
 
-# Filters
+# Exploring some of the functionality
 
 ### Single with highschool diplomas
 When you begin to dig deeper into the data, you can use the filters on the bottom right to key in on specific demographics. This image shows the defaulted credit card informtion on people that are single and have a highschool diploma.
@@ -28,3 +28,9 @@ This image shows how the dashboard elements are able to be selected as a way of 
 This image is shown highlighting the females in the dataset.
 
 <a href="https://ibb.co/YcNktZt"><img src="https://i.ibb.co/X7Wsz8z/credit-card-defaults-4.jpg" alt="credit-card-defaults-4" border="0"></a>
+
+# Some surprises in the insights
+One of the main surprises that I ran into while digging into this data, was that the highest defaulted cc demographic was the married male with highschool being the further education. It was even higher than the single male with a highschool education.
+
+<iframe title="credit_card_defaults" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=251310a8-8998-4ca5-932c-4ddd8c43e66e&autoAuth=true&ctid=4ddebea0-7048-45df-a9d0-358172b22e07&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+
