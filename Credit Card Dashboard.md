@@ -30,7 +30,7 @@ This image is shown highlighting the females in the dataset.
 <a href="https://ibb.co/YcNktZt"><img src="https://i.ibb.co/X7Wsz8z/credit-card-defaults-4.jpg" alt="credit-card-defaults-4" border="0"></a>
 
 # Some surprises in the insights
-One of the main surprises that I ran into while digging into this data, was that the highest defaulted cc demographic was the married male with highschool being the further education. It was even higher than the single male with a highschool education.
+One of the main surprises that I ran into while digging into this data, was that the highest defaulted cc demographic was the married male with highschool being their furthest education. It was even higher than the single male with a highschool education.
 
 <a href="https://ibb.co/vmdVRJw"><img src="https://i.ibb.co/WFzGjcx/credit-card-defaults-5.jpg" alt="credit-card-defaults-5" border="0"></a>
 
