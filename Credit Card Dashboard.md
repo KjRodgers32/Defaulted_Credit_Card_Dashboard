@@ -32,5 +32,5 @@ This image is shown highlighting the females in the dataset.
 # Some surprises in the insights
 One of the main surprises that I ran into while digging into this data, was that the highest defaulted cc demographic was the married male with highschool being the further education. It was even higher than the single male with a highschool education.
 
-<iframe title="credit_card_defaults" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=251310a8-8998-4ca5-932c-4ddd8c43e66e&autoAuth=true&ctid=4ddebea0-7048-45df-a9d0-358172b22e07&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+[<iframe title="credit_card_defaults" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=251310a8-8998-4ca5-932c-4ddd8c43e66e&autoAuth=true&ctid=4ddebea0-7048-45df-a9d0-358172b22e07&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/reportEmbed?reportId=251310a8-8998-4ca5-932c-4ddd8c43e66e&autoAuth=true&ctid=4ddebea0-7048-45df-a9d0-358172b22e07&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D)
 
