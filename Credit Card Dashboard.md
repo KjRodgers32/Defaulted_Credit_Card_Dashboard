@@ -34,3 +34,5 @@ One of the main surprises that I ran into while digging into this data, was that
 
 <a href="https://ibb.co/vmdVRJw"><img src="https://i.ibb.co/WFzGjcx/credit-card-defaults-5.jpg" alt="credit-card-defaults-5" border="0"></a>
 
+This got me thinking why is that the case, since the married female with a highschool education is 4% lower? This lead me to a research done by Experian in 2019. Their findings show that married couples have 120% more debi on average. Which correlates to what i was finding in my digging.
+
